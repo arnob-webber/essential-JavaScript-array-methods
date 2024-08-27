@@ -1,5 +1,5 @@
 // push
-//  it can add one or more elements to an array
+//  it can add one or more elements to the end of an array
 
 let number = [1, 2, 3]
 
